@@ -1,0 +1,38 @@
+icao,iata,name,municipalityName,countryCode
+LTFM,IST,Istanbul,Istanbul,TR
+LTFJ,SAW,"Istanbul, Sabiha Gökçen",Istanbul,TR
+UUEE,SVO,"Moscow, Sheremetyevo",Moscow,RU
+UUDD,DME,"Moscow, Domodedovo",Moscow,RU
+UUBW,ZIA,"Moscow, Zhukovsky",Moscow,RU
+UUWW,VKO,"Moscow, Vnukovo",Moscow,RU
+UUMU,CKL,"Moscow, Chkalovskiy",Moscow,RU
+EGSS,STN,"London, London Stansted",London,GB
+EGLL,LHR,"London, London Heathrow",London,GB
+EGLC,LCY,"London, London City",London,GB
+EGKK,LGW,"London, London Gatwick",London,GB
+EGGW,LTN,"London, London Luton",London,GB
+EGKB,BQH,"London, London Biggin Hill",London,GB
+EDDB,BER,"Berlin, Berlin Brandenburg",Berlin,DE
+EDDT,TXL,"Berlin, Berlin-Tegel",Berlin,DE
+LEMD,MAD,"Madrid, Adolfo Suárez Madrid–Barajas",Madrid,ES
+LECU,ECV,"Madrid, Cuatro Vientos",Madrid,ES
+LETO,TOJ,"Madrid, Torrejón",Madrid,ES
+UKBB,KBP,"Kyiv, Boryspil",Kyiv,UA
+UKKK,IEV,"Kyiv, Zhuliany",Kyiv,UA
+UKKM,GML,"Kyiv, Gostomel",Kyiv,UA
+LIRF,FCO,"Rome, Leonardo da Vinci–Fiumicino",Rome,IT
+LROP,OTP,"Bucharest, Henri Coandă",Bucharest,RO
+LRBS,BBU,"Bucharest, Băneasa",Bucharest,RO
+LFPG,CDG,"Paris, Charles de Gaulle",Paris,FR
+LFPO,ORY,"Paris, Paris-Orly",Paris,FR
+LFPB,LBG,"Paris, Paris-Le Bourget",Paris,FR
+UMMS,MSQ,"Minsk, Minsk National",Minsk,BY
+UMMM,MHP,"Minsk, Minsk 1",Minsk,BY
+LOWW,VIE,"Vienna, Schwechat",Vienna,AT
+EPWA,WAW,"Warsaw, Warsaw Chopin",Warsaw,PL
+EPMO,WMI,"Warsaw, Modlin",Warsaw,PL
+LHBP,BUD,"Budapest, Budapest Ferenc Liszt",Budapest,HU
+LYBE,BEG,"Belgrade, Belgrade Nikola Tesla",Belgrade,RS
+LBSF,SOF,Sofia,Sofia,BG
+LKPR,PRG,"Prague, Ruzyně",Prague,CZ
+UGTB,TBS,Tbilisi,Tbilisi,GE
