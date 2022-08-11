@@ -27,14 +27,5 @@ In this hypothetical project I am hired as a data scientist by an e-scooter-shar
 
 3. For both version the main scripts are the notebooks called gans_main_script.ipynb.
 
-You can refer to this Medium article for a more detailed description of the project and the code. 
+You can refer to this [Medium article](https://medium.com/@ilkayisik/building-a-fully-automated-data-pipeline-with-python-mysql-and-aws-cb692b218b60) for a more detailed description of the project and the code. 
 
-
-
-
-
-
-
-
-
-[]()
